@@ -15,5 +15,8 @@ public class HomeworkOne {
         System.out.println();
         System.out.println("Uczę\rsię\rprogramowania\ri\rcommitowania");
 
+        // version 1.3 \r\n
+        System.out.println();
+        System.out.println("Uczę\r\nsię\r\nprogramowania\r\ni\r\ncommitowania");
     }
 }
